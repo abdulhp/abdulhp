@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 
 ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhp)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhp&layout=compact)
-![Abdul's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=08d79467-e0c6-45ae-bade-583d573be860)
