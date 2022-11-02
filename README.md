@@ -22,12 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhp&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhp&layout=compact&count_private=true) -->
-
-<p align="left">
-  <a href="https://github.com/abdulhp">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulhp&count_private=true&show_icons=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulhp&layout=compact&count_private=true" />
-  </a>
-</p>
+![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhp&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhp&layout=compact&count_private=true)
