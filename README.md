@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhp&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhp&layout=compact&count_private=true)
+<!-- ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhp&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhp&layout=compact&count_private=true) -->
 
 <a href="https://github.com/abdulhp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhp&count_private=true&show_icons=true&include_all_commits=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhp&layout=compact&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulhp&count_private=true&show_icons=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhp&layout=compact&count_private=true" />
 </a>
