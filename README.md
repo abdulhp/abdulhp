@@ -27,7 +27,5 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/abdulhp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhp&count_private=true&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/abdulhp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhp&layout=compact&count_private=true" />
 </a>
