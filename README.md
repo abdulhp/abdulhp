@@ -1,5 +1,5 @@
 ## Hello fellas, welcome to my github
-I'm having interest in Back End Developing, currently i'm working as Product Engineer at Dicoding Indonesia
+I'm having interest in Back End Developing, currently i'm working as an Engineer at Dicoding Indonesia
 
 I'm doing a lot of PHP Laravel Websites, also i'm currently learning NodeJs with Express.js
 
